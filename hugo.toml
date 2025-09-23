@@ -1,4 +1,8 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://mdfgit.github.io/mfcc'
 languageCode = 'en-us'
-title = 'Mark Ferry Consulting Corp'
+title = 'Mark Ferry Consulting Corp (MFCC)'
 theme = 'PaperMod'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
