@@ -1,4 +1,4 @@
-baseURL = 'https://mdfgit.github.io/mfcc/'
+baseURL = 'https://mdfgit.github.io/MFCC/'
 languageCode = 'en-us'
 title = 'Mark Ferry'
 theme = 'PaperMod'
